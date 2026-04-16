@@ -1,3 +1,2 @@
 Kho lưu trữ này được tạo ra nhằm mục đích hệ thống hóa kiến thức về Cấu trúc dữ liệu và Giải thuật. Đây là nơi mình lưu trữ các bài tập thực hành, các cấu trúc dữ liệu tự triển khai và những thuật toán tối ưu từ cơ bản đến nâng cao.
 Chapter 1  :https://github.com/trunghieu2910/Data_Structure_And_Algorithms/tree/chapter_1 
-Tổng thể  :  https://github.com/trunghieu2910/Data_Structure_And_Algorithms.git 
