@@ -1,0 +1,1 @@
+Kho lưu trữ này được tạo ra nhằm mục đích hệ thống hóa kiến thức về Cấu trúc dữ liệu và Giải thuật. Đây là nơi mình lưu trữ các bài tập thực hành, các cấu trúc dữ liệu tự triển khai và những thuật toán tối ưu từ cơ bản đến nâng cao.
